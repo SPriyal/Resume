@@ -1,0 +1,52 @@
+Priyal Shah
+Corvallis, Oregon Area
+Graduate Teaching Assistant at College of Engineering – Oregon State University
+
+-------------------------------------------
+Summary
+
+I'm pursuing my Master of Science (M.S.) in Computer Science with cybersecurity focus under Dr. Jesse Walker from Oregon State University. Seeking opportunities as a Cybersecurity Intern/IT Security Intern/Security Intern.
+
+I'm experienced in Information and Network Security with a demonstrated history of working in the higher education industry. The Information Security field fascinates me, and I've taken a variety of classes in it, such as System Security, Network Security, Cyber Attack and Defense, Cyber Security, Applied Cryptography.
+
+Technical Skills: C/C++, Bro, Snort, IDS/IPS, Elastic Search, Kibana, Wireshark, Mininet, tcpreplay, Shell Script, Return-oriented Programming (ROP), pwntools, Burp Suite, x86; x86-64 assembly, gdb, Linux, Python.
+Personal Skills: Active Listener, Excellent Communication, Effective Time Management, Pressure handling skills, Quick Learner, Excellent collaboration, team building skills, management, and customer service. 
+
+-------------------------------------------
+Experience
+
+- Graduate Teaching Assistant at College of Engineering – Oregon State University
+09/2017 - Present
+• Pursuing research on IDS/IPS like Bro and Snort with Elastic Search to make them work together efficiently. 
+• As a Graduate Teaching Assistant, so far, I have worked with over 300 students as GTA of “Introduction to Computer Networks” and Software Engineering-1.
+• Performed various duties such as teaching, grading, mentoring, researching, holding office hours, lab sessions and learned about Cybersecurity, intrusion detection, Bro, snort, elastic search, Kibana, Wireshark, etc.
+
+- Student Technician at Information Services - Oregon State University 
+03/2017 - 09/2017
+• Worked as student Network administrator and Information security lab assistant for phishing attack detection. 
+• Learned about customer service, handling engineering requests (tickets), Active Directory, Windows enterprise and Server OS, troubleshooting wired and wireless networks, troubleshooting enterprise hardware and software, phishing attacks, on call and walkup support to customers, etc.
+
+- Student Worker at University Housing & Dining Services - Oregon State University
+01/2017 - 03/2017
+• Worked as a cashier at McNary Dining Center, Oregon State University.
+
+- Web Developer at Autosoft Solutions
+01/2016 - 12/2016
+• Built a PHP website to monitor live readings of various sensors and meters by applying Laravel framework, JavaScript, Bootstrap and High Charts.
+
+-------------------------------------------
+Education
+
+Oregon State University
+Master of Science - MS, Computer Science, 2017 - 2018
+
+Gujarat Technological University, Ahmedbabd
+Bachelor of Engineering (BE), Computer Engineering, 2012 - 2016
+
+Pravruti Vidjyalaya, Jeevan Bharti, Surat
+H.S.C, High School/Secondary Diplomas and Certificates, 1999 - 2012
+
+-------------------------------------------
+LinkedIn
+
+https://www.linkedin.com/in/spriyal
