@@ -5,7 +5,7 @@ Graduate Teaching Assistant at College of Engineering – Oregon State Universit
 -------------------------------------------
 Summary
 
-I'm pursuing my Master of Science (M.S.) in Computer Science with cybersecurity focus under Dr. Jesse Walker from Oregon State University. Seeking opportunities as a Cybersecurity Intern/IT Security Intern/Security Intern.
+I'm pursuing my Master of Science (M.S.) in Computer Science with cybersecurity focus under Dr. Jesse Walker from Oregon State University. Seeking opportunities as a Cybersecurity Intern/IT Security Intern/Security Intern or Software engineering Intern with a Security focus.
 
 I'm experienced in Information and Network Security with a demonstrated history of working in the higher education industry. The Information Security field fascinates me, and I've taken a variety of classes in it, such as System Security, Network Security, Cyber Attack and Defense, Cyber Security, Applied Cryptography.
 
@@ -40,10 +40,10 @@ Education
 Oregon State University
 Master of Science - MS, Computer Science, 2017 - 2018
 
-Gujarat Technological University, Ahmedbabd
+Gujarat Technological University
 Bachelor of Engineering (BE), Computer Engineering, 2012 - 2016
 
-Pravruti Vidjyalaya, Jeevan Bharti, Surat
+Pravrutti Vidhyalaya, Jeevan Bharti
 H.S.C, High School/Secondary Diplomas and Certificates, 1999 - 2012
 
 -------------------------------------------
